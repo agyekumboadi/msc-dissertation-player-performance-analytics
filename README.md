@@ -114,6 +114,9 @@ This repo shares:
 ### Goal contribution distribution (goals + assist)
 ![goal contribution distribution (goals + assist)](outputs/eda_visuals/goal_contribution_distribution.png)
 
+### Minutes played vs. goal contribution
+![minutes played vs. goal contribution](outputs/eda_visuals/bubble_minutes_vs_goals_pass_accuracy.png)
+
 ### Filtered correlation matrix
 ![filtered correlation matrix](outputs/eda_visuals/filtered_correlation_matrix.png)
 
