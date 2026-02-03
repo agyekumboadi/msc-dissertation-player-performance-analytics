@@ -95,6 +95,7 @@ This repo shares:
 | Basketball | **0.93** | **0.93** | **0.9719** | [View](outputs/analysis/basketball_model_evaluation.txt) |
 | Cross-sport (running/rowing/cycling) | **0.59** | **0.57** | **0.5007** | [View](outputs/analysis/crosssport_model_evaluation.txt) |
 
+---
 
 ## Evidence gallery (selected outputs)
 
