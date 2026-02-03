@@ -74,17 +74,28 @@ This repo shares:
 
 ---
 
+## Model performance (confirmed scores)
+
+### Football – core modelling results (ROC AUC)
+| Model | Feature strategy | ROC AUC | Notes |
+|------|------------------|--------:|------|
+| Random Forest | PCA feature space | **0.8889** | Strong non-linear performance on reduced dimensions |
+| Random Forest | Top 10 feature subset | **0.8906** | Best overall trade-off between performance and interpretability |
+
+### Football – baseline comparison (Full Features)
+| Model | ROC AUC |
+|------|--------:|
+| Logistic Regression | **0.8946** |
+| Random Forest | **0.8906** |
+| SVM | **0.8719** |
+
+### Cross-sport testing – generalisability (Random Forest + SMOTE)
+| Dataset | Accuracy | F1-score (weighted) | ROC AUC | Report |
+|--------|---------:|--------------------:|--------:|--------|
+| Basketball | **0.93** | **0.93** | **0.9719** | [View](outputs/analysis/basketball_model_evaluation.txt) |
+| Cross-sport (running/rowing/cycling) | **0.59** | **0.57** | **0.5007** | [View](outputs/analysis/crosssport_model_evaluation.txt) |
+
 ## Evidence gallery (selected outputs)
-
-### Model performance comparison
-![Final model performance comparison](outputs/analysis/final_model_performance_comparison.png)
-
-### Model test evaluation (summary)
-
-| Dataset | Accuracy | F1-score | ROC AUC | Report |
-|--------|---------:|---------:|--------:|--------|
-| Basketball | (value) | (value) | (value) | [View](outputs/analysis/basketball_model_evaluation.txt) |
-| Cross-sport | (value) | (value) | (value) | [View](outputs/analysis/crosssport_model_evaluation.txt) |
 
 ### Confusion matrix (basketball test)
 ![Basketball confusion matrix](outputs/analysis/basketball_confusion_matrix_roc9719.png)
