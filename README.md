@@ -95,6 +95,7 @@ This repo shares:
 | Basketball | **0.93** | **0.93** | **0.9719** | [View](outputs/analysis/basketball_model_evaluation.txt) |
 | Cross-sport (running/rowing/cycling) | **0.59** | **0.57** | **0.5007** | [View](outputs/analysis/crosssport_model_evaluation.txt) |
 
+
 ## Evidence gallery (selected outputs)
 
 ### Workflow Diagram of dataset inputs
@@ -102,16 +103,16 @@ This repo shares:
 
 ### Selected Exploratory Data Analysis Visuals [view all](outputs/eda_visuals)
 
-#### Top 15 correlated features
+### Top 15 correlated features
 ![top 15 correlated features](outputs/eda_visuals/top15_correlated_features.png)
 
-#### Injury vs. minutes played
+### Injury vs. minutes played
 ![injury vs. minutes played](outputs/eda_visuals/logistic_injury_vs_minutes_played.png)
 
-#### Goal contribution distribution (goals + assist)
+### Goal contribution distribution (goals + assist)
 ![goal contribution distribution (goals + assist)](outputs/eda_visuals/goal_contribution_distribution.png)
 
-#### Filtered correlation matrix
+### Filtered correlation matrix
 ![filtered correlation matrix](outputs/eda_visuals/filtered_correlation_matrix.png)
 
 ### Confusion matrix (basketball test)
