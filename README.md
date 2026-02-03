@@ -70,7 +70,7 @@ This repo shares:
 |------|------------------|---------------------:|---------------|
 | Random Forest | Top features | **0.8719** | Best balance of performance + interpretability |
 | Logistic Regression | PCA-based | **0.88–0.89 (approx.)** | Strong baseline, stable behaviour |
-| Cross-sport testing | Transfer evaluation | **Partial generalisation** | Requires context-aware feature adjustments |
+| Cross-sport testing | Transfer evaluation | **Partial generalisation (ROC AUC: 0.5007)** | Requires context-aware feature adjustments |
 
 ---
 
@@ -142,3 +142,19 @@ MyResearchProject/
     ├── LICENSE
     ├── README.md
     └── requirements.txt
+
+## Author
+
+**Samuel Boadi Agyekum**  
+Data Analytics & IT Security Management (MSc) — UK  
+
+- GitHub: https://github.com/agyekumboadi  
+- LinkedIn: https://www.linkedin.com/in/samuel-agyekum-388a82150/  
+- Email: agyekumowuraku@outlook.com  
+
+**Focus areas:** Applied machine learning, reproducible analytics pipelines, explainable AI (SHAP), performance evaluation, and data governance.
+
+**Role in this project:** Sole developer and researcher — designed the pipeline, implemented modelling (Logistic Regression, Random Forest, SVM), ran cross-sport testing, produced evaluation artefacts (metrics, confusion matrices, ROC AUC comparisons), and generated explainability outputs (SHAP).
+
+This repository is presented as a transparent technical evidence pack: it documents methodology, implementation decisions, and reproducible outputs used to evaluate model reliability and transferability across datasets.
+
