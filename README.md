@@ -155,7 +155,7 @@ Data Analytics & IT Security Management (MSc) - UK
 
 **Focus areas:** Applied machine learning, reproducible analytics pipelines, explainable AI (SHAP), performance evaluation, and data governance.
 
-**Role in this project:** Sole developer and researcher — designed the pipeline, implemented modelling (Logistic Regression, Random Forest, SVM), ran cross-sport testing, produced evaluation artefacts (metrics, confusion matrices, ROC AUC comparisons), and generated explainability outputs (SHAP).
+**Role in this project:** Sole developer and researcher who designed the pipeline, implemented modelling (Logistic Regression, Random Forest, SVM), ran cross-sport testing, produced evaluation artefacts (metrics, confusion matrices, ROC AUC comparisons), and generated explainability outputs (SHAP).
 
 This repository is presented as a transparent technical evidence pack: it documents methodology, implementation decisions, and reproducible outputs used to evaluate model reliability and transferability across datasets.
 
