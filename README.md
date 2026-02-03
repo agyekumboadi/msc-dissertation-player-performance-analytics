@@ -147,7 +147,7 @@ MyResearchProject/
 ## Author
 
 **Samuel Boadi Agyekum**  
-Data Analytics & IT Security Management (MSc) — UK  
+Data Analytics & IT Security Management (MSc) - UK  
 
 - GitHub: https://github.com/agyekumboadi  
 - LinkedIn: https://www.linkedin.com/in/samuel-agyekum-388a82150/  
