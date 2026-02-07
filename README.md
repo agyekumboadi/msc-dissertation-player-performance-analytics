@@ -7,6 +7,13 @@ It delivers an **end-to-end, reproducible machine learning pipeline** for foreca
 
 ---
 
+## Tech Nation evidence snapshot (release)
+
+Stable verification point for assessors: **v1.1-tech-nation**  
+View release: https://github.com/agyekumboadi/player-performance-ml-pipeline/releases/tag/v1.1-tech-nation
+
+---
+
 ## Why this project matters (UK Digital Technology relevance)
 
 Sports and performance-driven sectors increasingly rely on analytics to improve decision-making, recruitment, training, and risk management. This work demonstrates my ability to:
