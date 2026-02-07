@@ -7,9 +7,9 @@ It delivers an **end-to-end, reproducible machine learning pipeline** for foreca
 
 ---
 
-## Tech Nation evidence snapshot (release)
+## Evidence snapshot (release)
 
-Stable verification point for assessors: **v1.1-tech-nation**  
+Stable verification point: **v1.1-tech-nation**  
 View release: https://github.com/agyekumboadi/player-performance-ml-pipeline/releases/tag/v1.1-tech-nation
 
 ---
